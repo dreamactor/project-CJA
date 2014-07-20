@@ -2,7 +2,7 @@ import sys
 sum = 0
 n = 0
 
-# Sum input values
+# test
 for num in sys.stdin:
     sum += folat(num)
       n += 1
